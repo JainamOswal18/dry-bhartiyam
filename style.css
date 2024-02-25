@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+#parent{
+    border: 10px solid white;
+}
+img{
+    height: 45%;
+    width: 45%;
+    padding: 10px;
+}
+#child1{
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+}
+#child2{
+    width: 50%;
+    margin-left: 25%;
+    border: 5px solid white;
+    margin-top: 20px;
+}
+#child3{
+    margin-top: 20px;
+    width: 50%;
+    margin-left: 25%;
+    border: 5px solid white;
+}
+.j{
+    color: white;
+    text-align: center;
+}
+
+ul {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+  }
+.d{
+    padding: 10px;
+  }
+li{
+    margin-top: 30px;
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    text-transform: capitalize;
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h2{
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
